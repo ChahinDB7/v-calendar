@@ -746,7 +746,6 @@ export function createDatePicker(
   }
 
   function clearOut() {
-    console.log('clearOut');
     dragValue.value = null;
     dateValue.value = null;
 

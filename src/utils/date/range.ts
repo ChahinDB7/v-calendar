@@ -202,7 +202,6 @@ export class DateRangeContext {
       this.getRangeRecords(data).push(result);
     }
 
-    console.log({ result})
     return result;
   }
 
