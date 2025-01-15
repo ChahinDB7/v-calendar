@@ -1,6 +1,6 @@
 {
   "name": "@chahindb7/v-calendar",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "A clean and extendable plugin for building simple attributed calendars in Vue.js.",
   "type": "module",
   "main": "dist/v-calendar.umd.js",
